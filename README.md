@@ -1,7 +1,7 @@
 # 📊 Employee Work Productivity Analysis  
 
 ## 📌 Project Summary  
-This project focuses on analyzing employee productivity data using **Excel/Google Sheets**.  
+This project focuses on analyzing employee productivity data using **Excel**.  
 The dataset contains employee work details such as hours worked, tasks completed, productivity scores, and performance ratings.  
 Through various functions, PivotTables, and charts, the analysis highlights **top performers, departmental consistency, efficiency metrics, and correlations** between work factors and performance.  
 
@@ -36,10 +36,10 @@ The end goal is to uncover actionable insights that can help organizations impro
 ---
 
 ### 4. Correlation Analysis
-- **Q1:** Compared correlation of `Hours_Worked` vs `Performance_Rating` and  
+- **1:** Compared correlation of `Hours_Worked` vs `Performance_Rating` and  
   `Tasks_Completed` vs `Performance_Rating`.  
 - Used **CORREL function** → Found which factor had stronger impact.  
-- **Q2:** Created a **scatter plot** of `Hours_Worked` vs `Productivity_Score` to check if the relationship was positive or negative.  
+- **2:** Created a **scatter plot** of `Hours_Worked` vs `Productivity_Score` to check if the relationship was positive or negative.  
 
 ---
 
@@ -76,7 +76,7 @@ The end goal is to uncover actionable insights that can help organizations impro
 ---
 
 ## 🛠️ Tools Used
-- **Excel / Google Sheets**  
+- **Excel**  
 - Functions:  
   - `SORT`, `FILTER`, `RANK`, `STDEV.P`, `CORREL`, `INDEX-MATCH`, `XLOOKUP`, `AVERAGE`  
 - PivotTables & Charts  
